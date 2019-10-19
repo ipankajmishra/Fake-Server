@@ -1,0 +1,160 @@
+{
+  "category": [
+    {
+      "id": 1,
+      "name": "Biochemistry",
+      "uniqueid": "bio"
+    },
+    {
+      "id": 2,
+      "name": "Haematology Routine",
+      "uniqueid": "hae"
+    },
+    {
+      "id": 3,
+      "name": "Liver Function Test",
+      "uniqueid": "lft"
+    },
+    {
+      "id": 4,
+      "name": "Urine Examination",
+      "uniqueid": "uriexa"
+    },
+    {
+      "id": 5,
+      "name": "Urine Chemistry",
+      "uniqueid": "uriche"
+    },
+    {
+      "id": 6,
+      "name": "Serology Test",
+      "uniqueid": "sero"
+    },
+    {
+      "id": 7,
+      "name": "Stool Test",
+      "uniqueid": "stool"
+    },
+    {
+      "id": 8,
+      "name": "Lipid profile",
+      "uniqueid": "lipid"
+    },
+    {
+      "id": 9,
+      "name": "hormone Assays",
+      "uniqueid": "hor"
+    },
+    {
+      "id": 10,
+      "name": "Histopathology",
+      "uniqueid": "hist"
+    },
+    {
+      "id": 11,
+      "name": "Torch profile",
+      "uniqueid": "tor"
+    },
+    {
+      "id": 12,
+      "name": "Semen Analysis",
+      "uniqueid": "sem"
+    },
+    {
+      "id": 13,
+      "name": "Microbiology",
+      "uniqueid": "micro"
+    },
+    {
+      "id": 14,
+      "name": "Culture Report",
+      "uniqueid": "cul"
+    },
+    {
+      "id": 15,
+      "name": "liver Aspirate",
+      "uniqueid": "liv"
+    },
+    {
+      "id": 16,
+      "name": "GTT",
+      "uniqueid": "gtt"
+    },
+    {
+      "id": 17,
+      "name": "Bacteriology",
+      "uniqueid": "bact"
+    },
+    {
+      "id": 18,
+      "name": "Biopsy Small",
+      "uniqueid": "biop"
+    },
+    {
+      "id": 19,
+      "name": "Body Fluid",
+      "uniqueid": "bodyf"
+    },
+    {
+      "id": 20,
+      "name": "Elisa Dor Mycobacterium Tuberculosis",
+      "uniqueid": "edmt"
+    },
+    {
+      "id": 21,
+      "name": "S.Ferritin",
+      "uniqueid": "sf"
+    },
+    {
+      "id": 22,
+      "name": "Special Test",
+      "uniqueid": "spec"
+    },
+    {
+      "id": 23,
+      "name": "Faecal Fat Test",
+      "uniqueid": "fft"
+    }
+  ],
+  "bio": [
+    {
+      "id": "100",
+      "name": "Blood Sugar (BSF)",
+      "unit": "mg%",
+      "lower": "70",
+      "upper": "110",
+      "isChecked": false,
+      "resultvalue": ""
+    },
+    {
+      "id": "101",
+      "name": "Bood Sugar (PP)",
+      "unit": "mg%",
+      "lower": "80",
+      "upper": "140",
+      "isChecked": false,
+      "resultvalue": ""
+    }
+  ],
+  "hae": [
+    {
+      "id": "1000",
+      "name": "HAEMOGLOBIN (HB)",
+      "unit": "gm%",
+      "lower": "12",
+      "upper": "16",
+      "isChecked": false,
+      "resultvalue": ""
+    },
+    {
+      "id": "1001",
+      "name": "TOTAL LEUCOCYTE COUNT (TLC)",
+      "unit": "cell/cumm",
+      "lower": "4000",
+      "upper": "11000",
+      "isChecked": false,
+      "resultvalue": ""
+    }
+  ],
+  "temp": []
+}
